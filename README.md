@@ -35,7 +35,7 @@ src/
 - **DB**: PostgreSQL
 - **Auth**: JWT
 - **Validation**: Zod
-- **Deployment**: Render, Railway, or Vercel
+- **Deployment**:  Railway
 
 ---
 
