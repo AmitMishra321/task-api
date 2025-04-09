@@ -90,7 +90,7 @@ src/
 
 ## 🛠️ Setup
 
-git clone https://github.com/yourusername/task-api.git
+git clone https://github.com/AmitMishra321/task-api.git
 cd task-api
 npm install
 
