@@ -11,7 +11,10 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 app.use(
   cors({
-    origin: ["http://localhost:3000"],
+    origin: [
+      "http://localhost:3000",
+      "https://task-api-production-b1be.up.railway.app", 
+    ],
     methods: ["GET", "POST", "DELETE", "PUT"],
     credentials: true,
   })
