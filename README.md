@@ -21,9 +21,7 @@ src/
 ├── middlewares/
 ├── routes/
 ├── schema/
-├── utils/
 ├── prisma/ # Prisma schema
-├── generated/ # Prisma Client
 └── index.ts # Entry point
 
 
